@@ -1,0 +1,12 @@
+2
+*blue,5#48
+                                                
+--- The country is at no pandemic level, but you
+must still be careful to wash your hands to be  
+clean and safe at all times. -------------------
+                                                
+*green,4#50
+                                                  
+--------- You no longer need to use hand sanitiser
+regularly, just when touching surfaces that may be
+unclean. -----------------------------------------
