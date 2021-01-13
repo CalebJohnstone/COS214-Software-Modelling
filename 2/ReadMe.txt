@@ -2,8 +2,6 @@ COS 214: Software Modelling
 Assignment 2
 
 Name: Caleb Johnstone
-Student Number: u19030119
-Email: caleb.johnstone@tuks.co.za
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 MAKEFILE COMMAND TO RUN THE MAIN PROGRAM: make run
 
